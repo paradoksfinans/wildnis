@@ -5,7 +5,7 @@
 Du erwachst in einem Wald. Kein Gedächtnis. Nur eine Nummer auf dem Handgelenk: **#247**.
 Sammle, baue, kämpfe – und finde heraus, was das ARKON-Institut mit dir vorhat.
 
-▶ **Spielen:** einfach `index.html` im Browser öffnen – keine Installation, läuft auf Handy und PC.
+▶ **Jetzt spielen: https://paradoksfinans.github.io/wildnis/** – keine Installation, läuft auf Handy und PC.
 
 ---
 
